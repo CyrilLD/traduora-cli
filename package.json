@@ -1,5 +1,5 @@
 {
-  "name": "traduora-cli",
+  "name": "@cyrilld/traduora-cli",
   "version": "0.15.0",
   "description": "",
   "main": "lib/index.js",
